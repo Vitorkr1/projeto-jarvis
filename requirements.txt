@@ -1,0 +1,11 @@
+SpeechRecognition
+requests
+pandas
+pyautogui
+pytesseract
+groq
+edge-tts
+pygame
+openpyxl
+pyaudio
+pillow
