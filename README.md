@@ -123,4 +123,4 @@ Este projeto é educacional e demonstra automação com IA, reconhecimento de vo
 Desenvolvido por Vitor Guilherme
 
 GitHub:
-https://github.com/vitorguiljerme1-max
+https://github.com/vitorkr1
