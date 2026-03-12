@@ -15,8 +15,8 @@ import edge_tts
 os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = "hide"
 import pygame
 
-WEATHER_API_KEY = "24a151ba85e744899a4224013260603"
-GROQ_API_KEY = "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"
+WEATHER_API_KEY = "Sua api"
+GROQ_API_KEY = "sua api"
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
 pygame.mixer.init()
@@ -591,4 +591,5 @@ def main():
             time.sleep(0.5)
 
 if __name__ == "__main__":
+
     main()
